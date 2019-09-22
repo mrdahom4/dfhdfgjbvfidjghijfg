@@ -44,7 +44,7 @@ prefix= 1
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-game=1play 
+game
 
 
 // If you set this, it will modify the default status of bot
